@@ -1,0 +1,25 @@
+.header {
+  background: var(--primary);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+
+.brand { display: flex; align-items: baseline; gap: 10px; }
+.brand a { color: white; display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.logo { font-size: 20px; font-weight: 800; letter-spacing: 1px; }
+.title { font-size: 16px; font-weight: 600; }
+.sub { font-size: 12px; opacity: 0.65; margin-left: 4px; }
+
+.right { display: flex; align-items: center; gap: 12px; }
+.name { font-size: 14px; color: rgba(255,255,255,0.85); }
+.right .badge { font-size: 11px; text-transform: capitalize; }
+.right button { padding: 5px 12px; font-size: 13px; background: rgba(255,255,255,0.15); color: white; border: 1px solid rgba(255,255,255,0.3); }
+.right button:hover { background: rgba(255,255,255,0.25); }

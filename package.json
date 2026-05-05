@@ -1,0 +1,19 @@
+{
+  "name": "credit-transfer-system",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace=backend\" \"npm run dev --workspace=frontend\"",
+    "seed": "node scripts/seedDb.js",
+    "mock-pdfs": "node scripts/generateMockPdfs.js",
+    "setup": "npm install && npm run mock-pdfs && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

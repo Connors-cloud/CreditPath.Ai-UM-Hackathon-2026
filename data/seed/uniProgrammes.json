@@ -1,0 +1,23 @@
+[
+  {
+    "id": "prog-ukm-ftsm-it",
+    "code": "UKM-FTSM-IT",
+    "name": "Information Technology",
+    "faculty": "FTSM",
+    "university": "UKM"
+  },
+  {
+    "id": "prog-ukm-ftsm-se",
+    "code": "UKM-FTSM-SE",
+    "name": "Software Engineering",
+    "faculty": "FTSM",
+    "university": "UKM"
+  },
+  {
+    "id": "prog-ukm-ftsm-cs",
+    "code": "UKM-FTSM-CS",
+    "name": "Computer Science",
+    "faculty": "FTSM",
+    "university": "UKM"
+  }
+]

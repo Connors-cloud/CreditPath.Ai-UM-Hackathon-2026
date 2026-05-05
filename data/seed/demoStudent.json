@@ -1,0 +1,83 @@
+{
+  "user": {
+    "id": "user-demo-student",
+    "email": "student@demo.com",
+    "name": "Khew Jun Yu",
+    "role": "student"
+  },
+  "student": {
+    "reg_no": "24DIT01001",
+    "ic_no": "010101-07-1234",
+    "diploma_institution": "Politeknik Metro Tasek Gelugor",
+    "diploma_programme": "Diploma in Information Technology (Digital Technology)",
+    "cgpa": 3.42,
+    "intended_programme_id": "prog-ukm-ftsm-it"
+  },
+  "transcript": {
+    "student_name": "Khew Jun Yu",
+    "reg_no": "24DIT01001",
+    "cgpa": 3.42,
+    "semesters": [
+      {
+        "semester": "Semester 1",
+        "entries": [
+          { "subject_code": "DFC10103", "subject_name": "Operating System", "credit": 3, "grade": "A-" },
+          { "subject_code": "DFC10203", "subject_name": "Programming Fundamentals", "credit": 3, "grade": "A" },
+          { "subject_code": "DFT10103", "subject_name": "Introduction to Information Technology", "credit": 3, "grade": "A" },
+          { "subject_code": "DBM10103", "subject_name": "Discrete Mathematics", "credit": 3, "grade": "B+" },
+          { "subject_code": "DFS10103", "subject_name": "Digital Technology Fundamentals", "credit": 3, "grade": "A-" },
+          { "subject_code": "MPU3123", "subject_name": "Hubungan Etnik", "credit": 3, "grade": "A" }
+        ]
+      },
+      {
+        "semester": "Semester 2",
+        "entries": [
+          { "subject_code": "DFC10303", "subject_name": "Object Oriented Programming", "credit": 3, "grade": "A" },
+          { "subject_code": "DFC20203", "subject_name": "Database Management", "credit": 3, "grade": "A-" },
+          { "subject_code": "DFC20303", "subject_name": "Computer Networks", "credit": 3, "grade": "B+" },
+          { "subject_code": "DFT10203", "subject_name": "Human Computer Interaction", "credit": 3, "grade": "B+" },
+          { "subject_code": "DBM10203", "subject_name": "Computer Mathematics", "credit": 3, "grade": "B" },
+          { "subject_code": "DFS10203", "subject_name": "Computer Architecture and Organization", "credit": 3, "grade": "B+" },
+          { "subject_code": "MPU3113", "subject_name": "Bahasa Kebangsaan A", "credit": 3, "grade": "A" }
+        ]
+      },
+      {
+        "semester": "Semester 3",
+        "entries": [
+          { "subject_code": "DFC20103", "subject_name": "Data Structure", "credit": 3, "grade": "B+" },
+          { "subject_code": "DFC30103", "subject_name": "Software Engineering Fundamentals", "credit": 3, "grade": "A-" },
+          { "subject_code": "DFT20103", "subject_name": "System Analysis and Design", "credit": 3, "grade": "A" },
+          { "subject_code": "DFT20203", "subject_name": "Network Security", "credit": 3, "grade": "B" },
+          { "subject_code": "DFT20303", "subject_name": "Mobile Application Development", "credit": 3, "grade": "B+" },
+          { "subject_code": "DFS20103", "subject_name": "Algorithm Design", "credit": 3, "grade": "C+" }
+        ]
+      },
+      {
+        "semester": "Semester 4",
+        "entries": [
+          { "subject_code": "DFC30203", "subject_name": "Software Requirement and Design", "credit": 3, "grade": "A-" },
+          { "subject_code": "DFC30303", "subject_name": "Web Programming", "credit": 3, "grade": "A" },
+          { "subject_code": "DFT30103", "subject_name": "Cloud Technology", "credit": 3, "grade": "B" },
+          { "subject_code": "DFT30203", "subject_name": "Wireless and Mobile Networks", "credit": 3, "grade": "C+" },
+          { "subject_code": "DFP10103", "subject_name": "Professional Communication", "credit": 3, "grade": "A" },
+          { "subject_code": "DFP10203", "subject_name": "Project Management", "credit": 3, "grade": "B+" }
+        ]
+      },
+      {
+        "semester": "Semester 5",
+        "entries": [
+          { "subject_code": "DFC40103", "subject_name": "Advanced Web Development", "credit": 3, "grade": "A" },
+          { "subject_code": "DFC40203", "subject_name": "Software Testing", "credit": 3, "grade": "B+" },
+          { "subject_code": "DFT40103", "subject_name": "Industrial Training", "credit": 3, "grade": "A" },
+          { "subject_code": "DFC50103", "subject_name": "Final Year Project I", "credit": 3, "grade": "A-" }
+        ]
+      },
+      {
+        "semester": "Semester 6",
+        "entries": [
+          { "subject_code": "DFC50203", "subject_name": "Final Year Project II", "credit": 3, "grade": "A" }
+        ]
+      }
+    ]
+  }
+}

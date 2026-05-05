@@ -1,0 +1,19 @@
+.sidebar {
+  width: 220px;
+  min-height: calc(100vh - 60px);
+  background: white;
+  border-right: 1px solid var(--border);
+  padding: 16px 0;
+  flex-shrink: 0;
+}
+
+.link {
+  display: block;
+  padding: 10px 20px;
+  color: var(--text-muted);
+  font-size: 14px;
+  border-left: 3px solid transparent;
+  transition: all 0.15s;
+}
+.link:hover { background: var(--primary-faint); color: var(--primary); text-decoration: none; }
+.active { color: var(--primary); border-left-color: var(--primary); background: var(--primary-faint); font-weight: 600; }

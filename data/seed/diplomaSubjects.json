@@ -1,0 +1,649 @@
+[
+  {
+    "id": "ds-dfc10103",
+    "code": "DFC10103",
+    "name": "Operating System",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Introduction to operating system concepts including process management, memory management, and file systems.",
+    "topics": [
+      "Introduction to Operating Systems",
+      "Process Management and Scheduling",
+      "Memory Management",
+      "Virtual Memory",
+      "File System Management",
+      "Deadlocks and Synchronization",
+      "Security and Protection"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Operating System Concepts. Wiley.",
+      "Bhatt, P.C.P. (2019). An Introduction to Operating Systems. PHI Learning."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc10203",
+    "code": "DFC10203",
+    "name": "Programming Fundamentals",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Introduction to programming using structured programming approach.",
+    "topics": [
+      "Introduction to Programming",
+      "Variables and Data Types",
+      "Control Structures",
+      "Functions and Procedures",
+      "Arrays and Strings",
+      "File Input and Output"
+    ],
+    "references": [
+      "Deitel, P. (2020). Java How to Program. Pearson.",
+      "Savitch, W. (2018). Absolute Java. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc10303",
+    "code": "DFC10303",
+    "name": "Object Oriented Programming",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Programming using object-oriented paradigm with Java.",
+    "topics": [
+      "Object-Oriented Programming",
+      "Classes and Objects",
+      "Inheritance and Polymorphism",
+      "Exception Handling",
+      "Interface and Abstract Classes",
+      "Collections Framework"
+    ],
+    "references": [
+      "Deitel, P. (2020). Java How to Program. Pearson.",
+      "Horstmann, C.S. (2019). Core Java. Prentice-Hall."
+    ],
+    "prerequisites": "DFC10203"
+  },
+  {
+    "id": "ds-dfc20103",
+    "code": "DFC20103",
+    "name": "Data Structure",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Fundamental data structures and algorithm design techniques.",
+    "topics": [
+      "Introduction to Data Structures",
+      "Arrays and Linked Lists",
+      "Stacks and Queues",
+      "Trees and Binary Trees",
+      "Sorting Algorithms",
+      "Searching Algorithms",
+      "Algorithm Complexity Analysis"
+    ],
+    "references": [
+      "Cormen, T.H. (2009). Introduction to Algorithms. MIT Press.",
+      "Goodrich, M.T. (2014). Data Structures and Algorithms in Java. Wiley."
+    ],
+    "prerequisites": "DFC10303"
+  },
+  {
+    "id": "ds-dfc20203",
+    "code": "DFC20203",
+    "name": "Database Management",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Relational database design and SQL programming.",
+    "topics": [
+      "Introduction to Database Systems",
+      "Entity Relationship Modelling",
+      "Relational Data Model",
+      "Structured Query Language",
+      "Database Normalization",
+      "Transaction Management",
+      "Database Security"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Database System Concepts. McGraw-Hill.",
+      "Date, C.J. (2003). An Introduction to Database Systems. Addison-Wesley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc20303",
+    "code": "DFC20303",
+    "name": "Computer Networks",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Introduction to networking fundamentals and TCP/IP protocols.",
+    "topics": [
+      "Introduction to Computer Networks",
+      "Network Models and Architectures",
+      "Physical Layer and Data Transmission",
+      "Data Link Layer",
+      "Network Layer and IP Addressing",
+      "Transport Layer Protocols",
+      "Application Layer Protocols",
+      "Network Administration"
+    ],
+    "references": [
+      "Tanenbaum, A.S. (2021). Computer Networks. Pearson.",
+      "Forouzan, B.A. (2013). Data Communications and Networking. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc30103",
+    "code": "DFC30103",
+    "name": "Software Engineering Fundamentals",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Introduction to software development lifecycle and practices.",
+    "topics": [
+      "Introduction to Software Engineering",
+      "Software Development Life Cycle",
+      "Requirements Engineering",
+      "Software Design Principles",
+      "Software Testing",
+      "Software Quality Assurance",
+      "Project Management"
+    ],
+    "references": [
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill.",
+      "Sommerville, I. (2016). Software Engineering. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc30203",
+    "code": "DFC30203",
+    "name": "Software Requirement and Design",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Requirements gathering, analysis, and software system design.",
+    "topics": [
+      "Requirements Elicitation Techniques",
+      "Functional and Non-Functional Requirements",
+      "Use Case Modelling",
+      "Requirements Specification",
+      "Software Architecture",
+      "Software Maintenance",
+      "Agile Development Methods",
+      "Software Documentation"
+    ],
+    "references": [
+      "Sommerville, I. (2016). Software Engineering. Pearson.",
+      "Wiegers, K. (2013). Software Requirements. Microsoft Press."
+    ],
+    "prerequisites": "DFC30103"
+  },
+  {
+    "id": "ds-dfc30303",
+    "code": "DFC30303",
+    "name": "Web Programming",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Front-end and back-end web development techniques.",
+    "topics": [
+      "Introduction to Web Development",
+      "HTML and CSS Fundamentals",
+      "JavaScript Programming",
+      "Server-Side Programming",
+      "Database Integration",
+      "Web Security Practices"
+    ],
+    "references": [
+      "Flanagan, D. (2020). JavaScript: The Definitive Guide. O'Reilly.",
+      "Nixon, R. (2021). Learning PHP, MySQL & JavaScript. O'Reilly."
+    ],
+    "prerequisites": "DFC20203"
+  },
+  {
+    "id": "ds-dft10103",
+    "code": "DFT10103",
+    "name": "Introduction to Information Technology",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Overview of IT concepts, computer hardware, software, and the internet.",
+    "topics": [
+      "Introduction to Information Technology",
+      "Computer Hardware and Software",
+      "Operating System Basics",
+      "Internet and World Wide Web",
+      "Productivity Applications",
+      "Information Systems",
+      "IT Ethics and Society"
+    ],
+    "references": [
+      "Shelly, G.B. (2018). Discovering Computers. Cengage.",
+      "Evans, A. (2019). Technology in Action. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dft10203",
+    "code": "DFT10203",
+    "name": "Human Computer Interaction",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Principles of user interface design and usability.",
+    "topics": [
+      "Introduction to Human Computer Interaction",
+      "User Interface Design Principles",
+      "Usability and User Experience",
+      "Interaction Design Patterns",
+      "Prototyping and Wireframing",
+      "Usability Evaluation Methods",
+      "Accessibility in Interface Design"
+    ],
+    "references": [
+      "Dix, A. (2004). Human Computer Interaction. Pearson.",
+      "Rogers, Y. (2019). Interaction Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dft20103",
+    "code": "DFT20103",
+    "name": "System Analysis and Design",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Techniques for analysing and designing information systems.",
+    "topics": [
+      "Introduction to Systems Development",
+      "Systems Investigation and Feasibility",
+      "Requirements Analysis",
+      "Process Modelling",
+      "Data Modelling",
+      "Object-Oriented Analysis",
+      "System Design Strategies",
+      "System Documentation"
+    ],
+    "references": [
+      "Whitten, J.L. (2007). Systems Analysis and Design Methods. McGraw-Hill.",
+      "Dennis, A. (2018). Systems Analysis and Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dft20203",
+    "code": "DFT20203",
+    "name": "Network Security",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Introduction to network and information security concepts.",
+    "topics": [
+      "Introduction to Information Security",
+      "Cryptography and Encryption",
+      "Network Security Protocols",
+      "Authentication and Authorization",
+      "Malware and Intrusion Detection",
+      "Security Risk Assessment",
+      "Security Policies and Standards"
+    ],
+    "references": [
+      "Stallings, W. (2019). Cryptography and Network Security. Pearson.",
+      "Pfleeger, C.P. (2015). Security in Computing. Prentice-Hall."
+    ],
+    "prerequisites": "DFC20303"
+  },
+  {
+    "id": "ds-dft20303",
+    "code": "DFT20303",
+    "name": "Mobile Application Development",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Developing mobile applications for Android platform.",
+    "topics": [
+      "Introduction to Mobile Development",
+      "Mobile Platform Overview",
+      "User Interface for Mobile",
+      "Mobile Application Architecture",
+      "Data Storage in Mobile Apps",
+      "Network Communication in Mobile",
+      "Mobile App Testing"
+    ],
+    "references": [
+      "Meier, R. (2018). Professional Android. Wiley.",
+      "Phillips, B. (2018). Android Programming. Big Nerd Ranch."
+    ],
+    "prerequisites": "DFC10303"
+  },
+  {
+    "id": "ds-dft30103",
+    "code": "DFT30103",
+    "name": "Cloud Technology",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Introduction to cloud computing services and deployment.",
+    "topics": [
+      "Introduction to Cloud Computing",
+      "Cloud Service Models",
+      "Cloud Deployment Models",
+      "Virtualization Technology",
+      "Cloud Storage and Databases",
+      "Cloud Security",
+      "Container Technologies"
+    ],
+    "references": [
+      "Buyya, R. (2013). Cloud Computing. Wiley.",
+      "Sosinsky, B. (2011). Cloud Computing Bible. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dbm10103",
+    "code": "DBM10103",
+    "name": "Discrete Mathematics",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Mathematical foundations including logic, sets, and graph theory.",
+    "topics": [
+      "Logic and Propositions",
+      "Set Theory",
+      "Relations and Functions",
+      "Graph Theory",
+      "Trees and Spanning Trees",
+      "Counting and Combinatorics",
+      "Mathematical Induction",
+      "Boolean Algebra"
+    ],
+    "references": [
+      "Rosen, K.H. (2019). Discrete Mathematics and Its Applications. McGraw-Hill.",
+      "Johnsonbaugh, R. (2018). Discrete Mathematics. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dbm10203",
+    "code": "DBM10203",
+    "name": "Computer Mathematics",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Applied mathematics for computer science including number theory.",
+    "topics": [
+      "Number Systems and Binary",
+      "Boolean Algebra",
+      "Number Theory",
+      "Logic and Propositions",
+      "Statistics for Computing",
+      "Linear Algebra Basics"
+    ],
+    "references": [
+      "Rosen, K.H. (2019). Discrete Mathematics and Its Applications. McGraw-Hill.",
+      "Anton, H. (2013). Elementary Linear Algebra. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfs10103",
+    "code": "DFS10103",
+    "name": "Digital Technology Fundamentals",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Overview of digital technologies and computing concepts.",
+    "topics": [
+      "History of Computing",
+      "Computer Hardware and Architecture",
+      "Number Systems and Binary",
+      "Basic Algorithms and Flowcharts",
+      "Introduction to the Internet",
+      "Introduction to Programming Concepts",
+      "IT Ethics and Professionalism"
+    ],
+    "references": [
+      "Brookshear, J.G. (2018). Computer Science: An Overview. Pearson.",
+      "Shelly, G.B. (2018). Discovering Computers. Cengage."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfs10203",
+    "code": "DFS10203",
+    "name": "Computer Architecture and Organization",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Structure of computers, CPU design, and memory organization.",
+    "topics": [
+      "Introduction to Computer Organization",
+      "Number Systems and Digital Logic",
+      "CPU Architecture and Design",
+      "Instruction Set Architecture",
+      "Memory Hierarchy",
+      "Cache Memory",
+      "Input Output Organization"
+    ],
+    "references": [
+      "Patterson, D.A. (2017). Computer Organization and Design. Morgan Kaufmann.",
+      "Hamacher, C. (2011). Computer Organization. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfs20103",
+    "code": "DFS20103",
+    "name": "Algorithm Design",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Advanced data structures, graph algorithms, and algorithm complexity.",
+    "topics": [
+      "Binary Search Trees",
+      "Heaps and Priority Queues",
+      "Graphs and Graph Traversal",
+      "Hashing and Hash Tables",
+      "Algorithm Complexity Analysis",
+      "Dynamic Programming",
+      "Greedy Algorithms"
+    ],
+    "references": [
+      "Cormen, T.H. (2009). Introduction to Algorithms. MIT Press.",
+      "Sedgewick, R. (2011). Algorithms. Addison-Wesley."
+    ],
+    "prerequisites": "DFC20103"
+  },
+  {
+    "id": "ds-dfp10103",
+    "code": "DFP10103",
+    "name": "Professional Communication",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Communication skills for IT professionals.",
+    "topics": [
+      "Technical Writing",
+      "Presentation Skills",
+      "Report Writing",
+      "Professional Ethics",
+      "Team Communication",
+      "Documentation Standards"
+    ],
+    "references": [
+      "Beer, D. (2013). A Guide to Writing as an Engineer. Wiley.",
+      "Markel, M. (2019). Technical Communication. Bedford/St. Martin's."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfp10203",
+    "code": "DFP10203",
+    "name": "Project Management",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Principles and practices of IT project management.",
+    "topics": [
+      "Introduction to Project Management",
+      "Project Planning and Scheduling",
+      "Risk Management",
+      "Project Monitoring and Control",
+      "Team Leadership",
+      "Project Documentation",
+      "Agile Project Management"
+    ],
+    "references": [
+      "Schwalbe, K. (2018). Information Technology Project Management. Cengage.",
+      "PMI. (2017). A Guide to the Project Management Body of Knowledge. PMI."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc40103",
+    "code": "DFC40103",
+    "name": "Advanced Web Development",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Advanced web application development with modern frameworks.",
+    "topics": [
+      "Front-End Frameworks",
+      "RESTful API Design",
+      "Web Performance Optimization",
+      "Progressive Web Applications",
+      "Web Security Practices",
+      "Responsive Design"
+    ],
+    "references": [
+      "Flanagan, D. (2020). JavaScript: The Definitive Guide. O'Reilly.",
+      "Banks, A. (2020). Learning React. O'Reilly."
+    ],
+    "prerequisites": "DFC30303"
+  },
+  {
+    "id": "ds-dft30203",
+    "code": "DFT30203",
+    "name": "Wireless and Mobile Networks",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Wireless communication technologies and mobile network protocols.",
+    "topics": [
+      "Wireless and Mobile Networks",
+      "Network Security Fundamentals",
+      "Mobile Network Architecture",
+      "WiFi Technologies",
+      "Network Protocols for IoT",
+      "5G and Emerging Networks"
+    ],
+    "references": [
+      "Forouzan, B.A. (2013). Data Communications and Networking. McGraw-Hill.",
+      "Stallings, W. (2019). Wireless Communications and Networks. Pearson."
+    ],
+    "prerequisites": "DFC20303"
+  },
+  {
+    "id": "ds-dfc40203",
+    "code": "DFC40203",
+    "name": "Software Testing",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Testing techniques and quality assurance for software systems.",
+    "topics": [
+      "Introduction to Software Testing",
+      "Testing Levels and Types",
+      "Black Box Testing Techniques",
+      "White Box Testing Techniques",
+      "Test Planning and Management",
+      "Automated Testing Tools",
+      "Test Driven Development"
+    ],
+    "references": [
+      "Myers, G.J. (2011). The Art of Software Testing. Wiley.",
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill."
+    ],
+    "prerequisites": "DFC30103"
+  },
+  {
+    "id": "ds-mpu3113",
+    "code": "MPU3113",
+    "name": "Bahasa Kebangsaan A",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Malaysian national language proficiency.",
+    "topics": [
+      "Tatabahasa Bahasa Melayu",
+      "Penulisan Akademik",
+      "Karangan dan Laporan",
+      "Komunikasi Berkesan",
+      "Kesusasteraan Melayu"
+    ],
+    "references": [
+      "Dewan Bahasa dan Pustaka. (2018). Tatabahasa Dewan. DBP.",
+      "Hashim Musa. (2015). Pengantar Linguistik Am. UM Press."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-mpu3123",
+    "code": "MPU3123",
+    "name": "Hubungan Etnik",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Ethnic relations and nation building in Malaysia.",
+    "topics": [
+      "Malaysian History and Nation Building",
+      "Ethnic Groups in Malaysia",
+      "National Integration Policies",
+      "Religion and Cultural Practices",
+      "Malaysian Constitution",
+      "Civic Responsibility"
+    ],
+    "references": [
+      "Shamsul Amri. (2011). Modul Hubungan Etnik. UNITAR.",
+      "Nazri Muslim. (2010). Hubungan Etnik di Malaysia. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc50103",
+    "code": "DFC50103",
+    "name": "Final Year Project I",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Individual project proposal, literature review and initial implementation.",
+    "topics": [
+      "Research Methodology",
+      "Literature Review",
+      "Project Proposal Writing",
+      "System Development Planning",
+      "Progress Reporting"
+    ],
+    "references": [
+      "Kumar, R. (2019). Research Methodology. SAGE.",
+      "Fellows, R. (2008). Research Methods for Construction. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "ds-dfc50203",
+    "code": "DFC50203",
+    "name": "Final Year Project II",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Continuation of Final Year Project — implementation, testing and presentation.",
+    "topics": [
+      "System Implementation",
+      "System Testing and Evaluation",
+      "Project Documentation",
+      "Oral Presentation",
+      "Technical Report Writing"
+    ],
+    "references": [
+      "Kumar, R. (2019). Research Methodology. SAGE.",
+      "Fellows, R. (2008). Research Methods for Construction. Wiley."
+    ],
+    "prerequisites": "DFC50103"
+  },
+  {
+    "id": "ds-dft40103",
+    "code": "DFT40103",
+    "name": "Industrial Training",
+    "credit": 3,
+    "institution": "Politeknik Metro Tasek Gelugor",
+    "synopsis": "Practical industrial training in IT-related organisations.",
+    "topics": [
+      "Professional Work Ethics",
+      "Industry Practices",
+      "Technical Skills Application",
+      "Report Writing",
+      "Workplace Communication"
+    ],
+    "references": [
+      "Politeknik Metro Tasek Gelugor. (2023). Industrial Training Handbook."
+    ],
+    "prerequisites": null
+  }
+]

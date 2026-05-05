@@ -1,0 +1,16 @@
+.wrap { display: flex; flex-direction: column; gap: 6px; }
+.btns { display: flex; gap: 8px; flex-wrap: wrap; }
+.decided { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.notePreview { font-size: 12px; color: var(--text-muted); font-style: italic; }
+
+.rejectWrap { display: flex; flex-direction: column; gap: 6px; }
+.rejectLabel { font-size: 12px; font-weight: 600; color: var(--text); }
+.required { color: var(--danger); }
+.note {
+  font-size: 13px; padding: 7px 10px; width: 100%; box-sizing: border-box;
+  border: 1px solid var(--border); border-radius: var(--radius);
+  resize: vertical; font-family: inherit;
+}
+.note:focus { outline: none; border-color: var(--primary); }
+.noteErr { border-color: var(--danger) !important; }
+.errMsg { font-size: 12px; color: var(--danger); }

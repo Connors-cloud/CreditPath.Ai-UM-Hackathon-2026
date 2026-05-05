@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "us-it-tttk1114",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK1114",
+    "name": "Programming Fundamentals",
+    "credit": 4,
+    "status": "Wajib Program",
+    "synopsis": "Introduction to programming concepts using structured and object-oriented approaches.",
+    "topics": [
+      "Introduction to Programming",
+      "Variables and Data Types",
+      "Control Structures",
+      "Functions and Procedures",
+      "Arrays and Strings",
+      "Object-Oriented Programming",
+      "Classes and Objects",
+      "Inheritance and Polymorphism",
+      "Exception Handling",
+      "File Input and Output"
+    ],
+    "references": [
+      "Deitel, P. (2020). Java How to Program. Pearson.",
+      "Horstmann, C.S. (2019). Core Java. Prentice-Hall."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-it-tttk2013",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK2013",
+    "name": "Data Structures",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Fundamental data structures and their applications in algorithm design.",
+    "topics": [
+      "Introduction to Data Structures",
+      "Arrays and Linked Lists",
+      "Stacks and Queues",
+      "Trees and Binary Trees",
+      "Binary Search Trees",
+      "Heaps and Priority Queues",
+      "Graphs and Graph Traversal",
+      "Hashing and Hash Tables",
+      "Sorting Algorithms",
+      "Searching Algorithms",
+      "Algorithm Complexity Analysis"
+    ],
+    "references": [
+      "Cormen, T.H. (2009). Introduction to Algorithms. MIT Press.",
+      "Goodrich, M.T. (2014). Data Structures and Algorithms in Java. Wiley."
+    ],
+    "prerequisites": "TTTK1114"
+  },
+  {
+    "id": "us-it-tttk2023",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK2023",
+    "name": "Database Systems",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Relational database design, SQL, and database management system concepts.",
+    "topics": [
+      "Introduction to Database Systems",
+      "Entity Relationship Modelling",
+      "Relational Data Model",
+      "Structured Query Language",
+      "Database Normalization",
+      "Transaction Management",
+      "Concurrency Control",
+      "Database Security",
+      "Indexing and Query Optimization",
+      "NoSQL Databases"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Database System Concepts. McGraw-Hill.",
+      "Ramakrishnan, R. (2003). Database Management Systems. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-it-tttk3033",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK3033",
+    "name": "Operating Systems",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Concepts and design of operating systems including process management, memory management, and file systems.",
+    "topics": [
+      "Introduction to Operating Systems",
+      "Process Management and Scheduling",
+      "Memory Management",
+      "Virtual Memory",
+      "File System Management",
+      "Deadlocks and Synchronization",
+      "System Programming",
+      "Mobile Operating Systems",
+      "Security and Protection"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Operating System Concepts. Wiley.",
+      "Tanenbaum, A.S. (2014). Modern Operating Systems. Prentice-Hall."
+    ],
+    "prerequisites": "TTTK1114"
+  },
+  {
+    "id": "us-it-tttk2033",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK2033",
+    "name": "Computer Networks",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Fundamentals of computer networking, protocols, and network architectures.",
+    "topics": [
+      "Introduction to Computer Networks",
+      "Network Models and Architectures",
+      "Physical Layer and Data Transmission",
+      "Data Link Layer",
+      "Network Layer and IP Addressing",
+      "Transport Layer Protocols",
+      "Application Layer Protocols",
+      "Network Security Fundamentals",
+      "Wireless and Mobile Networks",
+      "Network Administration"
+    ],
+    "references": [
+      "Tanenbaum, A.S. (2021). Computer Networks. Pearson.",
+      "Forouzan, B.A. (2013). Data Communications and Networking. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-it-tttk3013",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK3013",
+    "name": "Software Engineering",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Principles and practices of software development including requirements, design, testing and project management.",
+    "topics": [
+      "Introduction to Software Engineering",
+      "Software Development Life Cycle",
+      "Requirements Engineering",
+      "Software Design Principles",
+      "Software Architecture",
+      "Software Testing",
+      "Software Quality Assurance",
+      "Project Management",
+      "Software Maintenance",
+      "Agile Development Methods"
+    ],
+    "references": [
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill.",
+      "Sommerville, I. (2016). Software Engineering. Pearson."
+    ],
+    "prerequisites": "TTTK1114"
+  },
+  {
+    "id": "us-it-tttk2043",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK2043",
+    "name": "Human Computer Interaction",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Design and evaluation of interactive systems with focus on usability and user experience.",
+    "topics": [
+      "Introduction to Human Computer Interaction",
+      "User Interface Design Principles",
+      "Usability and User Experience",
+      "User Research and Requirements",
+      "Interaction Design Patterns",
+      "Prototyping and Wireframing",
+      "Usability Evaluation Methods",
+      "Accessibility in Interface Design",
+      "Mobile and Responsive Design"
+    ],
+    "references": [
+      "Dix, A. (2004). Human Computer Interaction. Pearson.",
+      "Rogers, Y. (2019). Interaction Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-it-tttk3043",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK3043",
+    "name": "Information Security",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Principles of information security, cryptography, and network security.",
+    "topics": [
+      "Introduction to Information Security",
+      "Cryptography and Encryption",
+      "Network Security Protocols",
+      "Authentication and Authorization",
+      "Web Application Security",
+      "Malware and Intrusion Detection",
+      "Security Risk Assessment",
+      "Digital Forensics Basics",
+      "Security Policies and Standards"
+    ],
+    "references": [
+      "Stallings, W. (2019). Cryptography and Network Security. Pearson.",
+      "Bishop, M. (2018). Computer Security: Art and Science. Addison-Wesley."
+    ],
+    "prerequisites": "TTTK2033"
+  },
+  {
+    "id": "us-it-tttk3053",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK3053",
+    "name": "Web Application Development",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Design and development of web applications using current technologies and frameworks.",
+    "topics": [
+      "Introduction to Web Development",
+      "HTML and CSS Fundamentals",
+      "JavaScript Programming",
+      "Front-End Frameworks",
+      "Server-Side Programming",
+      "RESTful API Design",
+      "Database Integration",
+      "Web Security Practices",
+      "Web Performance Optimization",
+      "Progressive Web Applications"
+    ],
+    "references": [
+      "Flanagan, D. (2020). JavaScript: The Definitive Guide. O'Reilly.",
+      "Nixon, R. (2021). Learning PHP, MySQL & JavaScript. O'Reilly."
+    ],
+    "prerequisites": "TTTK1114"
+  },
+  {
+    "id": "us-it-tttk1123",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK1123",
+    "name": "Introduction to Information Technology",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Overview of information technology concepts, systems, and applications.",
+    "topics": [
+      "Introduction to Information Technology",
+      "Computer Hardware and Software",
+      "Operating System Basics",
+      "Internet and World Wide Web",
+      "Productivity Applications",
+      "Introduction to Programming Concepts",
+      "Information Systems",
+      "Emerging Technologies",
+      "IT Ethics and Society"
+    ],
+    "references": [
+      "Shelly, G.B. (2018). Discovering Computers. Cengage.",
+      "Evans, A. (2019). Technology in Action. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-it-tttk3063",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK3063",
+    "name": "Mobile Application Development",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Design and development of mobile applications for Android and iOS platforms.",
+    "topics": [
+      "Introduction to Mobile Development",
+      "Mobile Platform Overview",
+      "User Interface for Mobile",
+      "Mobile Application Architecture",
+      "Data Storage in Mobile Apps",
+      "Network Communication in Mobile",
+      "Location and Sensor Integration",
+      "Mobile App Testing",
+      "Publishing and Distribution"
+    ],
+    "references": [
+      "Meier, R. (2018). Professional Android. Wiley.",
+      "Neuburg, M. (2019). Programming iOS. O'Reilly."
+    ],
+    "prerequisites": "TTTK1114"
+  },
+  {
+    "id": "us-it-tttk3073",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK3073",
+    "name": "Cloud Computing",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Cloud computing concepts, service models, and deployment architectures.",
+    "topics": [
+      "Introduction to Cloud Computing",
+      "Cloud Service Models",
+      "Cloud Deployment Models",
+      "Virtualization Technology",
+      "Cloud Storage and Databases",
+      "Cloud Security",
+      "Container Technologies",
+      "DevOps and CI/CD",
+      "Cloud Cost Management"
+    ],
+    "references": [
+      "Buyya, R. (2013). Cloud Computing. Wiley.",
+      "Erl, T. (2013). Cloud Computing: Concepts, Technology and Architecture. Prentice-Hall."
+    ],
+    "prerequisites": "TTTK2033"
+  },
+  {
+    "id": "us-it-tttk4013",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK4013",
+    "name": "Artificial Intelligence",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Principles of artificial intelligence including search, knowledge representation, and machine learning.",
+    "topics": [
+      "Introduction to Artificial Intelligence",
+      "Search Algorithms and Heuristics",
+      "Knowledge Representation",
+      "Expert Systems",
+      "Machine Learning Fundamentals",
+      "Neural Networks",
+      "Natural Language Processing",
+      "Computer Vision Basics",
+      "AI Ethics and Applications"
+    ],
+    "references": [
+      "Russell, S. (2020). Artificial Intelligence: A Modern Approach. Pearson.",
+      "Nilsson, N.J. (2009). The Quest for Artificial Intelligence. Cambridge."
+    ],
+    "prerequisites": "TTTK2013"
+  },
+  {
+    "id": "us-it-tttk1133",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK1133",
+    "name": "Discrete Mathematics",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Mathematical foundations for computer science including logic, sets, relations, and graph theory.",
+    "topics": [
+      "Logic and Propositions",
+      "Set Theory",
+      "Relations and Functions",
+      "Graph Theory",
+      "Trees and Spanning Trees",
+      "Counting and Combinatorics",
+      "Mathematical Induction",
+      "Boolean Algebra",
+      "Number Theory"
+    ],
+    "references": [
+      "Rosen, K.H. (2019). Discrete Mathematics and Its Applications. McGraw-Hill.",
+      "Johnsonbaugh, R. (2018). Discrete Mathematics. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-it-tttk2053",
+    "programme_id": "prog-ukm-ftsm-it",
+    "code": "TTTK2053",
+    "name": "Systems Analysis and Design",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Methods and techniques for analyzing and designing information systems.",
+    "topics": [
+      "Introduction to Systems Development",
+      "Systems Investigation and Feasibility",
+      "Requirements Analysis",
+      "Process Modelling",
+      "Data Modelling",
+      "Object-Oriented Analysis",
+      "System Design Strategies",
+      "User Interface Design",
+      "Implementation and Testing Planning",
+      "System Documentation"
+    ],
+    "references": [
+      "Whitten, J.L. (2007). Systems Analysis and Design Methods. McGraw-Hill.",
+      "Dennis, A. (2018). Systems Analysis and Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+
+  {
+    "id": "us-se-sktm1114",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM1114",
+    "name": "Programming Fundamentals",
+    "credit": 4,
+    "status": "Wajib Program",
+    "synopsis": "Introduction to programming with emphasis on problem-solving and object-oriented design.",
+    "topics": [
+      "Introduction to Programming",
+      "Variables and Data Types",
+      "Control Structures",
+      "Functions and Procedures",
+      "Arrays and Strings",
+      "Object-Oriented Programming",
+      "Classes and Objects",
+      "Inheritance and Polymorphism",
+      "Exception Handling",
+      "File Input and Output"
+    ],
+    "references": [
+      "Deitel, P. (2020). Java How to Program. Pearson.",
+      "Horstmann, C.S. (2019). Core Java. Prentice-Hall."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-se-sktm2013",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM2013",
+    "name": "Data Structures",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Fundamental data structures and their applications.",
+    "topics": [
+      "Introduction to Data Structures",
+      "Arrays and Linked Lists",
+      "Stacks and Queues",
+      "Trees and Binary Trees",
+      "Binary Search Trees",
+      "Heaps and Priority Queues",
+      "Graphs and Graph Traversal",
+      "Hashing and Hash Tables",
+      "Sorting Algorithms",
+      "Searching Algorithms",
+      "Algorithm Complexity Analysis"
+    ],
+    "references": [
+      "Cormen, T.H. (2009). Introduction to Algorithms. MIT Press.",
+      "Goodrich, M.T. (2014). Data Structures and Algorithms in Java. Wiley."
+    ],
+    "prerequisites": "SKTM1114"
+  },
+  {
+    "id": "us-se-sktm2023",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM2023",
+    "name": "Database Systems",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Relational database design, SQL, and DBMS concepts.",
+    "topics": [
+      "Introduction to Database Systems",
+      "Entity Relationship Modelling",
+      "Relational Data Model",
+      "Structured Query Language",
+      "Database Normalization",
+      "Transaction Management",
+      "Concurrency Control",
+      "Database Security",
+      "Indexing and Query Optimization",
+      "NoSQL Databases"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Database System Concepts. McGraw-Hill.",
+      "Ramakrishnan, R. (2003). Database Management Systems. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-se-sktm3033",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM3033",
+    "name": "Operating Systems",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Concepts and design of operating systems.",
+    "topics": [
+      "Introduction to Operating Systems",
+      "Process Management and Scheduling",
+      "Memory Management",
+      "Virtual Memory",
+      "File System Management",
+      "Deadlocks and Synchronization",
+      "System Programming",
+      "Mobile Operating Systems",
+      "Security and Protection"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Operating System Concepts. Wiley.",
+      "Tanenbaum, A.S. (2014). Modern Operating Systems. Prentice-Hall."
+    ],
+    "prerequisites": "SKTM1114"
+  },
+  {
+    "id": "us-se-sktm2033",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM2033",
+    "name": "Computer Networks",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Fundamentals of computer networking.",
+    "topics": [
+      "Introduction to Computer Networks",
+      "Network Models and Architectures",
+      "Physical Layer and Data Transmission",
+      "Data Link Layer",
+      "Network Layer and IP Addressing",
+      "Transport Layer Protocols",
+      "Application Layer Protocols",
+      "Network Security Fundamentals",
+      "Wireless and Mobile Networks",
+      "Network Administration"
+    ],
+    "references": [
+      "Tanenbaum, A.S. (2021). Computer Networks. Pearson.",
+      "Forouzan, B.A. (2013). Data Communications and Networking. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-se-sktm3013",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM3013",
+    "name": "Software Engineering",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Principles and practices of software development.",
+    "topics": [
+      "Introduction to Software Engineering",
+      "Software Development Life Cycle",
+      "Requirements Engineering",
+      "Software Design Principles",
+      "Software Architecture",
+      "Software Testing",
+      "Software Quality Assurance",
+      "Project Management",
+      "Software Maintenance",
+      "Agile Development Methods"
+    ],
+    "references": [
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill.",
+      "Sommerville, I. (2016). Software Engineering. Pearson."
+    ],
+    "prerequisites": "SKTM1114"
+  },
+  {
+    "id": "us-se-sktm2043",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM2043",
+    "name": "Human Computer Interaction",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Design and evaluation of interactive systems.",
+    "topics": [
+      "Introduction to Human Computer Interaction",
+      "User Interface Design Principles",
+      "Usability and User Experience",
+      "User Research and Requirements",
+      "Interaction Design Patterns",
+      "Prototyping and Wireframing",
+      "Usability Evaluation Methods",
+      "Accessibility in Interface Design",
+      "Mobile and Responsive Design"
+    ],
+    "references": [
+      "Dix, A. (2004). Human Computer Interaction. Pearson.",
+      "Rogers, Y. (2019). Interaction Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-se-sktm3043",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM3043",
+    "name": "Software Requirements Engineering",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Techniques for eliciting, analysing, and documenting software requirements.",
+    "topics": [
+      "Introduction to Requirements Engineering",
+      "Requirements Elicitation Techniques",
+      "Functional and Non-Functional Requirements",
+      "Use Case Modelling",
+      "Requirements Specification",
+      "Requirements Validation",
+      "Requirements Management",
+      "Prototyping for Requirements",
+      "Traceability and Versioning"
+    ],
+    "references": [
+      "Sommerville, I. (2016). Software Engineering. Pearson.",
+      "Wiegers, K. (2013). Software Requirements. Microsoft Press."
+    ],
+    "prerequisites": "SKTM3013"
+  },
+  {
+    "id": "us-se-sktm3053",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM3053",
+    "name": "Software Testing and Quality",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Techniques and tools for software testing and quality assurance.",
+    "topics": [
+      "Introduction to Software Testing",
+      "Testing Levels and Types",
+      "Black Box Testing Techniques",
+      "White Box Testing Techniques",
+      "Test Planning and Management",
+      "Automated Testing Tools",
+      "Performance and Load Testing",
+      "Security Testing",
+      "Software Quality Models",
+      "Test Driven Development"
+    ],
+    "references": [
+      "Myers, G.J. (2011). The Art of Software Testing. Wiley.",
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill."
+    ],
+    "prerequisites": "SKTM3013"
+  },
+  {
+    "id": "us-se-sktm4013",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM4013",
+    "name": "Software Architecture and Design",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Architectural patterns, design patterns, and advanced software design.",
+    "topics": [
+      "Software Architecture Concepts",
+      "Architectural Patterns",
+      "Design Patterns",
+      "Component-Based Design",
+      "Service-Oriented Architecture",
+      "Microservices Architecture",
+      "API Design",
+      "System Integration Patterns",
+      "Architecture Documentation"
+    ],
+    "references": [
+      "Bass, L. (2012). Software Architecture in Practice. Addison-Wesley.",
+      "Gamma, E. (1994). Design Patterns. Addison-Wesley."
+    ],
+    "prerequisites": "SKTM3013"
+  },
+  {
+    "id": "us-se-sktm3063",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM3063",
+    "name": "Web Application Development",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Design and development of web applications.",
+    "topics": [
+      "Introduction to Web Development",
+      "HTML and CSS Fundamentals",
+      "JavaScript Programming",
+      "Front-End Frameworks",
+      "Server-Side Programming",
+      "RESTful API Design",
+      "Database Integration",
+      "Web Security Practices",
+      "Web Performance Optimization",
+      "Progressive Web Applications"
+    ],
+    "references": [
+      "Flanagan, D. (2020). JavaScript: The Definitive Guide. O'Reilly.",
+      "Nixon, R. (2021). Learning PHP, MySQL & JavaScript. O'Reilly."
+    ],
+    "prerequisites": "SKTM1114"
+  },
+  {
+    "id": "us-se-sktm3073",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM3073",
+    "name": "Information Security",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Principles of information security and network security.",
+    "topics": [
+      "Introduction to Information Security",
+      "Cryptography and Encryption",
+      "Network Security Protocols",
+      "Authentication and Authorization",
+      "Web Application Security",
+      "Malware and Intrusion Detection",
+      "Security Risk Assessment",
+      "Digital Forensics Basics",
+      "Security Policies and Standards"
+    ],
+    "references": [
+      "Stallings, W. (2019). Cryptography and Network Security. Pearson.",
+      "Bishop, M. (2018). Computer Security: Art and Science. Addison-Wesley."
+    ],
+    "prerequisites": "SKTM2033"
+  },
+  {
+    "id": "us-se-sktm1123",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM1123",
+    "name": "Introduction to Software Engineering",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Overview of software engineering discipline and professional practices.",
+    "topics": [
+      "Introduction to Software Engineering",
+      "Software Process Models",
+      "Introduction to Programming Concepts",
+      "Version Control Systems",
+      "Team Collaboration Tools",
+      "Software Documentation",
+      "Professional Ethics in IT",
+      "Career Paths in Software Engineering"
+    ],
+    "references": [
+      "Sommerville, I. (2016). Software Engineering. Pearson.",
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-se-sktm1133",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM1133",
+    "name": "Discrete Mathematics",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Mathematical foundations for software engineering.",
+    "topics": [
+      "Logic and Propositions",
+      "Set Theory",
+      "Relations and Functions",
+      "Graph Theory",
+      "Trees and Spanning Trees",
+      "Counting and Combinatorics",
+      "Mathematical Induction",
+      "Boolean Algebra",
+      "Number Theory"
+    ],
+    "references": [
+      "Rosen, K.H. (2019). Discrete Mathematics and Its Applications. McGraw-Hill.",
+      "Johnsonbaugh, R. (2018). Discrete Mathematics. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-se-sktm2053",
+    "programme_id": "prog-ukm-ftsm-se",
+    "code": "SKTM2053",
+    "name": "Systems Analysis and Design",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Methods and techniques for analysing and designing software systems.",
+    "topics": [
+      "Introduction to Systems Development",
+      "Systems Investigation and Feasibility",
+      "Requirements Analysis",
+      "Process Modelling",
+      "Data Modelling",
+      "Object-Oriented Analysis",
+      "System Design Strategies",
+      "User Interface Design",
+      "Implementation and Testing Planning",
+      "System Documentation"
+    ],
+    "references": [
+      "Whitten, J.L. (2007). Systems Analysis and Design Methods. McGraw-Hill.",
+      "Dennis, A. (2018). Systems Analysis and Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+
+  {
+    "id": "us-cs-scsv1114",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV1114",
+    "name": "Programming Fundamentals",
+    "credit": 4,
+    "status": "Wajib Program",
+    "synopsis": "Foundations of programming and computational thinking.",
+    "topics": [
+      "Introduction to Programming",
+      "Variables and Data Types",
+      "Control Structures",
+      "Functions and Procedures",
+      "Arrays and Strings",
+      "Object-Oriented Programming",
+      "Classes and Objects",
+      "Inheritance and Polymorphism",
+      "Exception Handling",
+      "File Input and Output"
+    ],
+    "references": [
+      "Deitel, P. (2020). Java How to Program. Pearson.",
+      "Horstmann, C.S. (2019). Core Java. Prentice-Hall."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-cs-scsv2013",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV2013",
+    "name": "Data Structures and Algorithms",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Comprehensive study of data structures and algorithm design.",
+    "topics": [
+      "Introduction to Data Structures",
+      "Arrays and Linked Lists",
+      "Stacks and Queues",
+      "Trees and Binary Trees",
+      "Binary Search Trees",
+      "Heaps and Priority Queues",
+      "Graphs and Graph Traversal",
+      "Hashing and Hash Tables",
+      "Sorting Algorithms",
+      "Searching Algorithms",
+      "Algorithm Complexity Analysis"
+    ],
+    "references": [
+      "Cormen, T.H. (2009). Introduction to Algorithms. MIT Press.",
+      "Goodrich, M.T. (2014). Data Structures and Algorithms in Java. Wiley."
+    ],
+    "prerequisites": "SCSV1114"
+  },
+  {
+    "id": "us-cs-scsv2023",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV2023",
+    "name": "Database Systems",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Relational database design and query language.",
+    "topics": [
+      "Introduction to Database Systems",
+      "Entity Relationship Modelling",
+      "Relational Data Model",
+      "Structured Query Language",
+      "Database Normalization",
+      "Transaction Management",
+      "Concurrency Control",
+      "Database Security",
+      "Indexing and Query Optimization",
+      "NoSQL Databases"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Database System Concepts. McGraw-Hill.",
+      "Ramakrishnan, R. (2003). Database Management Systems. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-cs-scsv3033",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV3033",
+    "name": "Operating Systems",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Fundamental concepts and design of operating systems.",
+    "topics": [
+      "Introduction to Operating Systems",
+      "Process Management and Scheduling",
+      "Memory Management",
+      "Virtual Memory",
+      "File System Management",
+      "Deadlocks and Synchronization",
+      "System Programming",
+      "Mobile Operating Systems",
+      "Security and Protection"
+    ],
+    "references": [
+      "Silberschatz, A. (2019). Operating System Concepts. Wiley.",
+      "Tanenbaum, A.S. (2014). Modern Operating Systems. Prentice-Hall."
+    ],
+    "prerequisites": "SCSV1114"
+  },
+  {
+    "id": "us-cs-scsv2033",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV2033",
+    "name": "Computer Networks",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Networking concepts, protocols, and administration.",
+    "topics": [
+      "Introduction to Computer Networks",
+      "Network Models and Architectures",
+      "Physical Layer and Data Transmission",
+      "Data Link Layer",
+      "Network Layer and IP Addressing",
+      "Transport Layer Protocols",
+      "Application Layer Protocols",
+      "Network Security Fundamentals",
+      "Wireless and Mobile Networks",
+      "Network Administration"
+    ],
+    "references": [
+      "Tanenbaum, A.S. (2021). Computer Networks. Pearson.",
+      "Forouzan, B.A. (2013). Data Communications and Networking. McGraw-Hill."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-cs-scsv3013",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV3013",
+    "name": "Software Engineering",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Software development principles, practices, and lifecycle management.",
+    "topics": [
+      "Introduction to Software Engineering",
+      "Software Development Life Cycle",
+      "Requirements Engineering",
+      "Software Design Principles",
+      "Software Architecture",
+      "Software Testing",
+      "Software Quality Assurance",
+      "Project Management",
+      "Software Maintenance",
+      "Agile Development Methods"
+    ],
+    "references": [
+      "Pressman, R.S. (2020). Software Engineering: A Practitioner's Approach. McGraw-Hill.",
+      "Sommerville, I. (2016). Software Engineering. Pearson."
+    ],
+    "prerequisites": "SCSV1114"
+  },
+  {
+    "id": "us-cs-scsv4013",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV4013",
+    "name": "Artificial Intelligence",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "AI techniques and applications in computer science.",
+    "topics": [
+      "Introduction to Artificial Intelligence",
+      "Search Algorithms and Heuristics",
+      "Knowledge Representation",
+      "Expert Systems",
+      "Machine Learning Fundamentals",
+      "Neural Networks",
+      "Natural Language Processing",
+      "Computer Vision Basics",
+      "AI Ethics and Applications"
+    ],
+    "references": [
+      "Russell, S. (2020). Artificial Intelligence: A Modern Approach. Pearson.",
+      "Nilsson, N.J. (2009). The Quest for Artificial Intelligence. Cambridge."
+    ],
+    "prerequisites": "SCSV2013"
+  },
+  {
+    "id": "us-cs-scsv4023",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV4023",
+    "name": "Machine Learning",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Machine learning theory and practical application.",
+    "topics": [
+      "Introduction to Machine Learning",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Regression and Classification",
+      "Decision Trees and Random Forests",
+      "Support Vector Machines",
+      "Neural Network Architectures",
+      "Deep Learning Fundamentals",
+      "Model Evaluation and Validation",
+      "Feature Engineering"
+    ],
+    "references": [
+      "Mitchell, T.M. (1997). Machine Learning. McGraw-Hill.",
+      "Alpaydin, E. (2020). Introduction to Machine Learning. MIT Press."
+    ],
+    "prerequisites": "SCSV4013"
+  },
+  {
+    "id": "us-cs-scsv3043",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV3043",
+    "name": "Information Security",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Security principles, cryptography, and digital forensics.",
+    "topics": [
+      "Introduction to Information Security",
+      "Cryptography and Encryption",
+      "Network Security Protocols",
+      "Authentication and Authorization",
+      "Web Application Security",
+      "Malware and Intrusion Detection",
+      "Security Risk Assessment",
+      "Digital Forensics Basics",
+      "Security Policies and Standards"
+    ],
+    "references": [
+      "Stallings, W. (2019). Cryptography and Network Security. Pearson.",
+      "Bishop, M. (2018). Computer Security: Art and Science. Addison-Wesley."
+    ],
+    "prerequisites": "SCSV2033"
+  },
+  {
+    "id": "us-cs-scsv1123",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV1123",
+    "name": "Introduction to Computer Science",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Foundations of computer science theory and history.",
+    "topics": [
+      "History of Computing",
+      "Introduction to Programming Concepts",
+      "Computer Hardware and Architecture",
+      "Number Systems and Binary",
+      "Basic Algorithms and Flowcharts",
+      "Introduction to the Internet",
+      "IT Ethics and Professionalism",
+      "Computing Careers Overview"
+    ],
+    "references": [
+      "Brookshear, J.G. (2018). Computer Science: An Overview. Pearson.",
+      "Schneider, G.M. (2015). Invitation to Computer Science. Cengage."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-cs-scsv1133",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV1133",
+    "name": "Discrete Mathematics",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Mathematical foundations for computer science.",
+    "topics": [
+      "Logic and Propositions",
+      "Set Theory",
+      "Relations and Functions",
+      "Graph Theory",
+      "Trees and Spanning Trees",
+      "Counting and Combinatorics",
+      "Mathematical Induction",
+      "Boolean Algebra",
+      "Number Theory"
+    ],
+    "references": [
+      "Rosen, K.H. (2019). Discrete Mathematics and Its Applications. McGraw-Hill.",
+      "Johnsonbaugh, R. (2018). Discrete Mathematics. Pearson."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-cs-scsv2043",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV2043",
+    "name": "Human Computer Interaction",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Interactive system design and usability engineering.",
+    "topics": [
+      "Introduction to Human Computer Interaction",
+      "User Interface Design Principles",
+      "Usability and User Experience",
+      "User Research and Requirements",
+      "Interaction Design Patterns",
+      "Prototyping and Wireframing",
+      "Usability Evaluation Methods",
+      "Accessibility in Interface Design",
+      "Mobile and Responsive Design"
+    ],
+    "references": [
+      "Dix, A. (2004). Human Computer Interaction. Pearson.",
+      "Rogers, Y. (2019). Interaction Design. Wiley."
+    ],
+    "prerequisites": null
+  },
+  {
+    "id": "us-cs-scsv3053",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV3053",
+    "name": "Computer Architecture",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Structure and function of digital computers and instruction set architecture.",
+    "topics": [
+      "Introduction to Computer Organization",
+      "Number Systems and Digital Logic",
+      "CPU Architecture and Design",
+      "Instruction Set Architecture",
+      "Memory Hierarchy",
+      "Cache Memory",
+      "Input Output Organization",
+      "Parallel Processing",
+      "Assembly Language Programming"
+    ],
+    "references": [
+      "Patterson, D.A. (2017). Computer Organization and Design. Morgan Kaufmann.",
+      "Hamacher, C. (2011). Computer Organization. McGraw-Hill."
+    ],
+    "prerequisites": "SCSV1123"
+  },
+  {
+    "id": "us-cs-scsv4033",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV4033",
+    "name": "Big Data and Analytics",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Big data technologies, processing frameworks, and analytical techniques.",
+    "topics": [
+      "Introduction to Big Data",
+      "Big Data Characteristics and Challenges",
+      "Hadoop Ecosystem",
+      "MapReduce Programming",
+      "Apache Spark",
+      "Data Warehousing",
+      "Stream Processing",
+      "Data Visualization",
+      "Business Intelligence",
+      "Ethical Use of Data"
+    ],
+    "references": [
+      "White, T. (2015). Hadoop: The Definitive Guide. O'Reilly.",
+      "Marz, N. (2015). Big Data. Manning."
+    ],
+    "prerequisites": "SCSV2023"
+  },
+  {
+    "id": "us-cs-scsv2053",
+    "programme_id": "prog-ukm-ftsm-cs",
+    "code": "SCSV2053",
+    "name": "Systems Analysis and Design",
+    "credit": 3,
+    "status": "Wajib Program",
+    "synopsis": "Methods for analysing and designing information systems.",
+    "topics": [
+      "Introduction to Systems Development",
+      "Systems Investigation and Feasibility",
+      "Requirements Analysis",
+      "Process Modelling",
+      "Data Modelling",
+      "Object-Oriented Analysis",
+      "System Design Strategies",
+      "User Interface Design",
+      "Implementation and Testing Planning",
+      "System Documentation"
+    ],
+    "references": [
+      "Whitten, J.L. (2007). Systems Analysis and Design Methods. McGraw-Hill.",
+      "Dennis, A. (2018). Systems Analysis and Design. Wiley."
+    ],
+    "prerequisites": null
+  }
+]

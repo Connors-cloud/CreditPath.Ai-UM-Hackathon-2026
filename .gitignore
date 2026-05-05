@@ -141,3 +141,18 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node (since you have package.json)
+node_modules/
+
+# Data / large files
+data/
+*.zip
+*.csv
+*.sqlite

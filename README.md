@@ -6,6 +6,16 @@ Built for the GLM Hackathon using the **Z.ai GLM-4-plus** model.
 
 ---
 
+## 👥 Team — CobolD
+
+- **Ng Ming Qian**  
+- **Tay Hoe Guan**  
+- **Gunalan A/L Moorthy**  
+- **Khew Jun Yu**  
+- **Adam Ashwin Tay**
+
+---
+
 ## Quick Start
 
 ### Prerequisites
@@ -148,11 +158,3 @@ node scripts/inspectAnalysis.js <analysis_id>
 | Frontend | React 18, Vite 5, react-router-dom v6, CSS Modules |
 | PWA | vite-plugin-pwa, Workbox |
 | SSE | Native EventSource + Node.js EventEmitter |
-
-## 👥 Team — CobolD
-
-* **Ng Ming Qian**
-* **Tay Hoe Guan**
-* **Gunalan A/L Moorthy**
-* **Khew Jun Yu**
-* **Adam Ashwin Tay**

@@ -1,4 +1,4 @@
-# Credit Transfer System — UKM FTSM
+# CreditPath.Ai — UKM FTSM
 
 AI-powered credit transfer platform for Malaysian polytechnic diploma graduates applying to UKM's Faculty of Information Science & Technology (FTSM) programmes.
 

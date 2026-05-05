@@ -149,9 +149,10 @@ node scripts/inspectAnalysis.js <analysis_id>
 | PWA | vite-plugin-pwa, Workbox |
 | SSE | Native EventSource + Node.js EventEmitter |
 
-👥 Team — CobolD
-Ng Ming Qian
-Tay Hoe Guan
-Gunalan A/L Moorthy
-Khew Jun Yu
-Adam Ashwin Tay
+## 👥 Team — CobolD
+
+* **Ng Ming Qian**
+* **Tay Hoe Guan**
+* **Gunalan A/L Moorthy**
+* **Khew Jun Yu**
+* **Adam Ashwin Tay**
